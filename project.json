@@ -1,0 +1,10 @@
+{
+  "category": "gaming",
+  "name": "Game Culture Journal",
+  "repository": "category-atlas-gaming",
+  "cloudflare_pages_project": "category-atlas-gaming",
+  "production_branch": "main",
+  "build_command": "",
+  "output_directory": "/",
+  "articles": 44
+}
